@@ -1,3 +1,3 @@
-Upload index.html to the root of your existing GitHub repository, replacing the old file, then commit changes.
+Upload index.html to the root of your existing GitHub repository, replacing the previous file, and commit changes. Wait for GitHub Pages to deploy, then refresh with Command+Shift+R.
 
-The protruding dial overlay is removed. The tomato smiles with a gentle bounce on starting or resuming a session. Reduced-motion preferences are respected.
+Sound is enabled by default. Browsers unlock audio after interaction: start a timer or drag its dial. Toggle sound in Settings. Short and long breaks remain fixed at 5 and 15 minutes.
