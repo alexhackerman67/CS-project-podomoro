@@ -1,5 +1,3 @@
-# Lil Timer
+Upload index.html to the root of your existing GitHub repository, replacing the old file, then commit changes.
 
-Upload index.html to your existing repository root, replacing the previous index.html, then commit changes. GitHub Pages will redeploy.
-
-Changes: simplified heading, disabled drag text selection and pointer focus outline, and hidden dial marks outside 1–60 minutes. Keyboard focus remains visible.
+The protruding dial overlay is removed. The tomato smiles with a gentle bounce on starting or resuming a session. Reduced-motion preferences are respected.
