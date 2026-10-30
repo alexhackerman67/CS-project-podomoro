@@ -1,3 +1,3 @@
-Replace index.html in your GitHub repository and commit changes. Refresh after Pages deploys.
+Replace index.html in your existing GitHub repository and commit. Refresh after deployment.
 
-Removed the top navigation strip and tagline, reduced title size and spacing, and moved Settings to the small gear beside the timer controls. Includes focus view, notebook, remembered timer and daily focused minutes.
+Centered, balanced workspace with a larger title, a matching tomato logo and an embedded display font. The font works offline. Notebook stacks beneath the timer on small screens. All previous features are included.
