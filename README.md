@@ -1,5 +1,9 @@
-Upload index.html to the root of your existing GitHub repository, replacing the old file. Commit changes and refresh after deployment.
+Replace index.html in the root of your existing GitHub repository, commit changes, and wait for Pages deployment. Refresh with Command+Shift+R.
 
-Click task text to edit; Enter saves and Escape cancels. Drag the dotted handle to reorder, or focus it and use Up/Down. Click the circle beside a task to show it beneath the timer as your current task. Completing or deleting that task clears the current selection. Tasks, order and current selection save in your browser.
+New features:
+- Focus view automatically simplifies the page during a focus session. Show notebook restores the workspace; pausing restores it too.
+- Notebook sits alongside the timer on wide screens and stacks below on narrow screens.
+- Running and paused timers survive refreshes and closing the tab. Expired sessions are reconciled when reopened; alarms cannot sound while a tab is closed.
+- Quiet daily focused-minute summary counts actual focus time, including partial sessions, excludes breaks, and resets at local midnight.
 
-Includes Focus/Break tabs, sound settings, notebook celebrations and previous timer features.
+Includes notebook editing, reordering, current task, celebrations and sound settings. Progress is saved in this browser.
