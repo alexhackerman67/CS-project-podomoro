@@ -1,3 +1,5 @@
-Replace index.html in your existing GitHub repository and commit. Refresh after deployment.
+Lil Timer — breathing breaks
 
-Centered, balanced workspace with a larger title, a matching tomato logo and an embedded display font. The font works offline. Notebook stacks beneath the timer on small screens. All previous features are included.
+Replace index.html in your GitHub repository and commit changes. Keep FONT-LICENSE.txt alongside it. After GitHub Pages deploys, refresh your page.
+
+Choose Break, then Take a pause to start the gentle breathing tomato. Breathe along comfortably or rest your eyes. Sound follows Settings. Reduced-motion preferences are respected.
